@@ -1,4 +1,4 @@
-![QuantumSimulation-Lab cover](assets/cover.png)
+![QuantumSimulation-Lab cover](QuantumSimulation-Lab%20cover.png)
 
 # QuantumSimulation-Lab ⚛️🌀
 
